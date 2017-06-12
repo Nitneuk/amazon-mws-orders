@@ -1,4 +1,7 @@
 <?php
+
+namespace AmazonMwsOrder\V2011;
+
 /** 
  *  PHP Version 5
  *

@@ -1,4 +1,7 @@
 <?php
+
+namespace AmazonMwsOrder\V2011;
+
 /** 
  *  PHP Version 5
  *
@@ -21,7 +24,7 @@
  * returned by Marketplace Web Service Orders  service
  *
  */
-class MarketplaceWebServiceOrders_Exception extends Exception
+class MarketplaceWebServiceOrders_Exception extends \Exception
 
 {
     /** @var string */
