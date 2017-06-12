@@ -1,14 +1,13 @@
 {
-    "name": "tilleuls/amazon-mws-orders",
+    "name": "nitneuk/amazon-mws-orders-2011",
     "type": "library",
     "description": "Amazon Marketplace Web Service Orders PHP Client Library",
     "keywords": ["amazon", "mws", "orders", "client", "api", "library"],
-    "homepage": "http://les-tilleuls.coop",
     "licence": "Apache-2.0",
     "authors": [
         {
-          "name": "Baptiste Meyer",
-          "email": "baptiste@les-tilleuls.coop"
+          "name": "Quentin Barloy",
+          "email": "quentin@les-tilleuls.coop"
         }
     ],
     "require": {
